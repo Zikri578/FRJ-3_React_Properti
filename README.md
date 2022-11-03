@@ -3,6 +3,8 @@
 Apa itu Props atau Properties?
 - Props atau properti merupakan suatu cara untuk mengirim dan mengakses data dari komponent lain secara langsung. 
 
+Sumber : https://www.konsepkoding.com/2020/09/2-tutorial-reactjs-memahami-state-props-react.html
+
 Contoh penggunaan Properti dibawah ini : 
 
     import React from 'react'
